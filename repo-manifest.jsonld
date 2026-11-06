@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/danielfm/pybreaker/commit/2b0b965fcfc7705ca9a776c614ea6cb3ec3fe783",
       "git:hexsha": "2b0b965fcfc7705ca9a776c614ea6cb3ec3fe783",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/danielfm/pybreaker/commit/2565f7503fdbf0c611930559cb81348189355d27",
