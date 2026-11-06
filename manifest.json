@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "danielfm",
+  "repo": "pybreaker",
+  "versions": [
+    {
+      "commit": "2b0b965fcfc7705ca9a776c614ea6cb3ec3fe783",
+      "parsed_at": "2026-11-06T02:32:52.452102+00:00",
+      "filetree": "filetree/2b0b965fcfc7705ca9a776c614ea6cb3ec3fe783.nq.gz",
+      "blobs": [
+        "blob/7fcc08864c65dcd2a69efec1442331d0d54a273f.nq.gz",
+        "blob/9c1caac2c91ba5201266950ed5f0d29ba2bd1625.nq.gz",
+        "blob/5a81b0841db9b2bc42bf10f56c9ee054604121b5.nq.gz",
+        "blob/37f8c7aed545c43c0f277c4ef86a3ea9950f949d.nq.gz",
+        "blob/1c226d512cc67013e4e8b4592625de7ba8aecf38.nq.gz",
+        "blob/5f8e818b2848f014e4957922244982fe32aa5a30.nq.gz",
+        "blob/59dabb5905c1b5842d9de6cd0725b8931b07a3a5.nq.gz",
+        "blob/3611919d06e9cf261e5ed5929a54af62a048b133.nq.gz",
+        "blob/a007f5859b31c77ddab9a8924b16f377931b1767.nq.gz",
+        "blob/85416b75f0a05ea3c861110c1113bb309b35fd73.nq.gz",
+        "blob/8175553cf0235e5f995093bf77577eb349995a6e.nq.gz",
+        "blob/48bffd64d2733af45201884ca46144ab8d2e6cb5.nq.gz",
+        "blob/56f2dbf65da3163129e1144fe62761c22bf67b04.nq.gz",
+        "blob/4d75c3847c1f5277499b2e236fe4f400b63f7910.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/2f40c5bbf0095595f8b92b1b55649c3469281206.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
