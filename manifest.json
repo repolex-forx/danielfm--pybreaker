@@ -57,6 +57,82 @@
       ],
       "ast": [
         "aggregate/ast/faf54de652991899768d7075feab6fcc10b72ba7/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/faf54de652991899768d7075feab6fcc10b72ba7.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "9.2.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "ae1d0ff57b8bd4252da9ade7353523ac0ac73281",
+          "githubTag": "9.2.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "mock",
+          "ecosystem": "PYPI",
+          "version": "5.2.0",
+          "githubOrg": "testing-cabal",
+          "githubRepo": "mock",
+          "githubCommit": "0f5df822bde4729cb2190819ad01a8728ddc9de3",
+          "githubTag": "5.2.0",
+          "githubUrl": "https://github.com/testing-cabal/mock",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "tornado",
+          "ecosystem": "PYPI",
+          "version": "6.6.1",
+          "githubOrg": "tornadoweb",
+          "githubRepo": "tornado",
+          "githubCommit": "c1adc39faea87d87d99421529aa06cdd3d39f660",
+          "githubTag": "v6.6.1",
+          "githubUrl": "https://github.com/tornadoweb/tornado",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "redis",
+          "ecosystem": "PYPI",
+          "version": "8.1.0",
+          "githubOrg": "redis",
+          "githubRepo": "redis-py",
+          "githubCommit": "e013126df18e476fbb8b8215f040f39bd3242683",
+          "githubTag": "v8.1.0",
+          "githubUrl": "https://github.com/redis/redis-py",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "fakeredis",
+          "ecosystem": "PYPI",
+          "version": "2.40.0",
+          "githubOrg": "cunla",
+          "githubRepo": "fakeredis-py",
+          "githubCommit": "1c41a30b7934d9719070130da20b5bcb9c420def",
+          "githubTag": "v2.40.0",
+          "githubUrl": "https://github.com/cunla/fakeredis-py",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "types-mock",
+          "ecosystem": "PYPI",
+          "version": "5.2.0.20260518",
+          "githubOrg": "python",
+          "githubRepo": "typeshed",
+          "githubUrl": "https://github.com/python/typeshed",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "types-redis",
+          "ecosystem": "PYPI",
+          "version": "4.6.0.20241004",
+          "githubOrg": "python",
+          "githubRepo": "typeshed",
+          "githubUrl": "https://github.com/python/typeshed",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
