@@ -3,6 +3,11 @@
   "repo": "pybreaker",
   "versions": [
     {
+      "commit": "faf54de652991899768d7075feab6fcc10b72ba7",
+      "tag": "v1.4.1",
+      "parsed_at": "2026-11-22T06:34:46.613889+00:00"
+    },
+    {
       "commit": "2b0b965fcfc7705ca9a776c614ea6cb3ec3fe783",
       "tag": "",
       "parsed_at": "2026-11-06T02:35:04.406310+00:00"

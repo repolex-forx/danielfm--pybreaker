@@ -36,13 +36,20 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 .
 ├── aggregate
 │   ├── ast
-│   │   └── 2b0b965fcfc7705ca9a776c614ea6cb3ec3fe783
+│   │   ├── 2b0b965fcfc7705ca9a776c614ea6cb3ec3fe783
+│   │   │   └── chunk-001.nq.gz
+│   │   └── faf54de652991899768d7075feab6fcc10b72ba7
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── faf54de652991899768d7075feab6fcc10b72ba7.nq.gz
 │   └── repolex
-│       └── 2b0b965fcfc7705ca9a776c614ea6cb3ec3fe783
+│       ├── 2b0b965fcfc7705ca9a776c614ea6cb3ec3fe783
+│       │   └── chunk-001.nq.gz
+│       └── faf54de652991899768d7075feab6fcc10b72ba7
 │           └── chunk-001.nq.gz
 ├── blob
 │   ├── 1c226d512cc67013e4e8b4592625de7ba8aecf38.nq.gz
+│   ├── 1d3de3103f530314ceee47c0e286b9d0d0512b17.nq.gz
 │   ├── 2f40c5bbf0095595f8b92b1b55649c3469281206.nq.gz
 │   ├── 3611919d06e9cf261e5ed5929a54af62a048b133.nq.gz
 │   ├── 37f8c7aed545c43c0f277c4ef86a3ea9950f949d.nq.gz
@@ -57,13 +64,17 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── 85416b75f0a05ea3c861110c1113bb309b35fd73.nq.gz
 │   ├── 9c1caac2c91ba5201266950ed5f0d29ba2bd1625.nq.gz
 │   ├── a007f5859b31c77ddab9a8924b16f377931b1767.nq.gz
+│   ├── ce2e3e11bb3441a11113800d477426115f715509.nq.gz
 │   └── e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz
 ├── branch
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── faf54de652991899768d7075feab6fcc10b72ba7.nq.gz
 ├── filetree
-│   └── 2b0b965fcfc7705ca9a776c614ea6cb3ec3fe783.nq.gz
+│   ├── 2b0b965fcfc7705ca9a776c614ea6cb3ec3fe783.nq.gz
+│   └── faf54de652991899768d7075feab6fcc10b72ba7.nq.gz
 ├── issue
 │   └── issue.nq.gz
 ├── pr
@@ -71,7 +82,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 24 files
+17 directories, 31 files
 ```
 
 | Directory | What it contains |
@@ -92,4 +103,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [danielfm/pybreaker](https://github.com/danielfm/pybreaker)
 
 ---
-*Parsed on 2026-11-06 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-22 by [repolex](https://repolex.ai)*
