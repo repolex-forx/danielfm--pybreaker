@@ -133,7 +133,9 @@
           "githubUrl": "https://github.com/python/typeshed",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/faf54de652991899768d7075feab6fcc10b72ba7/chunk-001.nq.gz",
+      "dep": "dep/faf54de652991899768d7075feab6fcc10b72ba7.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
